@@ -66,7 +66,7 @@ $ node Fidha.Js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/ALTHAFLEO/Fidha-Mwol)FidhaMwol.jpg](http://chat.whatsapp.com/Dn1RGhQxRxLGD25r91uYl8)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](http://chat.whatsapp.com/Dn1RGhQxRxLGD25r91uYl8)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ALTHAFLEO&repo=Fidha-Mwol&theme=nightowl)](https://github.com/ALTHAFLEO/Fidha-Mwol)
